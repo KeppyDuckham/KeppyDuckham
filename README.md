@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeppyDuckham
+- 👋 Hi, I’m Ekpenyong Duckham
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on Frontend Projects
